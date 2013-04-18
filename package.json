@@ -1,0 +1,28 @@
+{
+    "name": "folders",
+    "description": "Folders (TiiR)",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "async": "0.2.x",
+        "express": "3.0.3",
+        "express-hbs": "0.1.x",
+        "hbs": "2.0.x",
+        "less-middleware": "0.1.x",
+        "socket.io": "0.9.x",
+        "connect": "2.7.x",
+        "pg": "0.12.x",
+        "orm": "2.0.x",
+        "underscore": "1.4.x",
+        "superagent": "0.12.x",
+        "yamljs": "0.1.x",
+        "adapter": "git+https://github.com/mysterlune/adapter.git",
+        "object": "git+https://github.com/mysterlune/object.git"
+    },
+    "devDependencies": {
+        "mocha": "1.8.x",
+        "expect.js": "0.2.x",
+        "supertest": "0.5.x",
+        "socket.io-client": "0.9.x"
+    }
+}
