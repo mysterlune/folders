@@ -34,9 +34,4 @@ app
         # Output directory for grunt tasks that compile/minify/etc. the client code
 */
 
-var yaml = require('yamljs')
-    , path = require('path');
-
-var options = yaml.load(path.join(__dirname,'app_config/_dev_server.yml'));
-
 module.exports = require('./lib/server');
