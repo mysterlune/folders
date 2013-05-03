@@ -16,6 +16,7 @@
     "underscore": "1.4.x",
     "superagent": "0.12.x",
     "yamljs": "0.1.x",
+    "session.socket.io": "0.1.6",
     "adapter": "git+https://github.com/mysterlune/adapter.git",
     "object": "git+https://github.com/mysterlune/object.git"
   },
