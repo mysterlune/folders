@@ -18,8 +18,8 @@
     "superagent": "0.12.x",
     "yamljs": "0.1.x",
     "session.socket.io": "0.1.6",
-    "adapter": "git+https://github.com/mysterlune/adapter.git",
-    "object": "git+https://github.com/mysterlune/object.git"
+    "adapter": "git+ssh://repos.oak.iparadigms.com/var/git/tiip/adapter.git",
+    "object": "git+ssh://repos.oak.iparadigms.com/var/git/tiip/object.git"
   },
   "devDependencies": {
     "mocha": "1.8.x",
@@ -33,6 +33,6 @@
   "dist": {
     "shasum": "5d84c542f95d376c09e322a0fa9eac32c1dcd2fd"
   },
-  "_resolved": "git+https://github.com/mysterlune/folders.git#0db7ed88d7ee40876f05a15e173f8759fac0d355",
-  "_from": "folders@git+https://github.com/mysterlune/folders.git"
+  "_resolved": "git+ssh://repos.oak.iparadigms.com/var/git/tiip/folders.git#0db7ed88d7ee40876f05a15e173f8759fac0d355",
+  "_from": "folders@git+ssh://repos.oak.iparadigms.com/var/git/tiip/folders.git"
 }
